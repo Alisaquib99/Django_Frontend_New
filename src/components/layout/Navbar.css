@@ -1,0 +1,16 @@
+
+.navbar_button_row{
+    display: flex;
+    gap:1rem;
+}
+.navbar_button{
+    background-color: rgb(5, 117, 165);
+    border-radius: 2rem;
+    font-size: medium;
+    padding: 11px 25px;
+}
+.navbar_button:hover{
+    background-color: #fff;
+    color: rgb(5, 117, 165);;
+    box-shadow: 4px 2px 9px black;
+}
